@@ -1,0 +1,3 @@
+﻿É necessário adicionar os Pacotes
+AutoMapper
+AutoMapper extensions Microsoft DepencyInjection
